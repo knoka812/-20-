@@ -5,7 +5,7 @@ import time
 
 # 初始化OpenAI客户端
 client = OpenAI(
-    api_key="1b287686ef1942b08e33aa23bb487956e6b9d763",
+    api_key="填写你的密钥哦~",
     base_url="https://aistudio.baidu.com/llm/lmapi/v3" 
 )
 
